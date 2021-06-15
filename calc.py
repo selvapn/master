@@ -11,4 +11,6 @@ elif opr=='+':
     result=x+y
 elif opr=='^':
     result=x^y
+elif opr=='%':
+    result=x^y
 print(result)
